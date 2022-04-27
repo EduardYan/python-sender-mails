@@ -75,5 +75,7 @@ if __name__ == '__main__':
   init(autoreset = True)
 
   print('\n')
+  print(Back.BLACK + Fore.LIGHTBLUE_EX + '--- Python Sender Mails ---')
+  print('\n')
   main()
   print('\n')

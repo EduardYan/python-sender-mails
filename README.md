@@ -1,4 +1,4 @@
-# Sender Mails Python.
+# Python Sendar Mails.
 
 This is a small program made with python for send mails quickly. With
 a fast configuration.
@@ -23,6 +23,8 @@ MAIL_DESTINATARY = destinaryexample@gmail.com
 MAIL_DIRECTION = myemailexample@gmail.com
 MAIL_PASSWORD = mypasswordexample
 ```
+
+Now set the message to send in "./data/message.txt".
 
 ## Running.
 
