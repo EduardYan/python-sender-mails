@@ -3,3 +3,6 @@
 
 # Virtual enviroment
 /env
+
+# Eviroment file
+.env
