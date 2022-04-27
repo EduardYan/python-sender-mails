@@ -1,3 +1,6 @@
+# Cache from python
+__pycache__
+
 # VSCode configuration
 .vscode
 
